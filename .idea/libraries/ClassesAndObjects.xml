@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="ClassesAndObjects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects8.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
